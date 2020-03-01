@@ -1,0 +1,4 @@
+desktop env on the go with normal everyday utilities, calc, textpad, etc
+window manager, etc
+made for old portable consoles
+make save file in the memory

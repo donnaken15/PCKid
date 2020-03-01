@@ -1,0 +1,1 @@
+start "" visualboyadvance out.gb

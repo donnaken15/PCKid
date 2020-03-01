@@ -1,0 +1,1 @@
+start "" nes out.nes
